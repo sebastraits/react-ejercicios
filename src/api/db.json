@@ -1,0 +1,34 @@
+{
+  "santos": [
+    {
+      "id": 1,
+      "name": "Leonard Cohen",
+      "genero": "blues / jazz"
+    },
+    {
+      "id": 2,
+      "name": "Sabina",
+      "genero": "Cantaautor"
+    },
+    {
+      "id": 3,
+      "name": "Mark Knopfler",
+      "genero": "Country/rock"
+    },
+    {
+      "id": 4,
+      "name": "Michael Jackson",
+      "genero": "Pop"
+    },
+    {
+      "id": 5,
+      "name": "Alan Parson",
+      "genero": "Rock experimental"
+    },
+    {
+      "name": "Sebastian Nieto",
+      "genero": "sd",
+      "id": 1618873110141
+    }
+  ]
+}
