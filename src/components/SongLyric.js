@@ -1,8 +1,9 @@
-const SongLyric = () => {
+const SongLyric = ({title, lyric}) => {
     return (
 
         <div>
-            <h2>Letra de la cancion</h2>
+            <h2>{title}</h2>
+            <blockquote style={{whiteSpace: "pre-wrap"}}>{lyric}</blockquote>
         </div>
     )
 }
